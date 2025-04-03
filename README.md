@@ -1,2 +1,4 @@
 # blox.land-Checker
-a blox.land account checker
+
+```pip install -r requirements.txt```
+
